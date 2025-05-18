@@ -19,9 +19,15 @@ const seo = {
 
 //Home Page
 const greeting = {
+<<<<<<< HEAD
   title: "Satyanarayana Dasari",
   logo_name: "Satyanarayana",
   nickname: "Software Developer",
+=======
+  title: "satyanarayana dasari",
+  logo_name: "satyanarayana",
+  nickname: "software developer",
+>>>>>>> 6eba649690a2fad451bdd7fd024360e2af60e024
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
